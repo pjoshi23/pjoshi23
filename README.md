@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pranav Joshi</h1>
+<h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">Welcome to my GitHub Profile!</h3>
 
 - 🌱 I’m currently pursuing a BS in Computer Science at UCLA.  
