@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
-<h3 align="center">Welcome to my GitHub Profile!</h3>
 
-- 🌱 I’m currently pursuing a BS in Computer Science at UCLA.  
-- 🔭 I'm passionate about AI, machine learning, robotics, and full-stack software engineering.  
-- 🛠️ Some of my favorite personal projects include building autonomous drones, full-stack web platforms, and iOS apps with SwiftUI and Firebase.  
+- 🌱 I’m currently a junior at UCLA pursuing a B.S. in Computer Science.  
+- 🔭 I'm interested in generative AI, deep learning, machine learning, and full-stack software engineering.  
+- 🛠️ Some of my personal projects include an AI-powered daily nutrition tracking mobile app, a RAG-based multi-modal search system, an RL-based agent for autonomous driving, and LLMs for text generation.
 
 ---
 
