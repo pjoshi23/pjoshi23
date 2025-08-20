@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 
 - 🌱 I’m currently a junior at UCLA pursuing a B.S. in Computer Science.  
-- 🔭 I'm interested in generative AI, deep learning, machine learning, and full-stack software engineering.  
+- 🔭 I'm passionate about generative AI, deep learning, machine learning, and full-stack software engineering.  
 - 🛠️ Some of my personal projects include an AI-powered daily nutrition tracking mobile app, a RAG-based multi-modal search system, an RL-based agent for autonomous driving, and LLMs for text generation.
 
 ---
